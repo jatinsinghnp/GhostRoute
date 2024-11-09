@@ -1,0 +1,11 @@
+/# Ignore the target directory
+/target/
+
+# Ignore build artifacts
+*.rs.bk
+Cargo.lock
+
+# Ignore IDE-specific files (optional)
+.idea/
+.vscode/
+target
